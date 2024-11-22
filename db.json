@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "4720",
+      "name": "evin",
+      "role": "user",
+      "status": "Active"
+    },
+    {
+      "id": "cce2",
+      "name": "alan",
+      "role": "editor",
+      "status": "Inactive"
+    },
+    {
+      "id": "03a5",
+      "name": "aysha",
+      "role": "developer",
+      "status": "Inactive"
+    },
+    {
+      "id": "cd37",
+      "name": "gouri",
+      "role": "dev",
+      "status": "Inactive"
+    }
+  ]
+}
