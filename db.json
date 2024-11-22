@@ -4,19 +4,19 @@
       "id": "4720",
       "name": "evin",
       "role": "user",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "id": "cce2",
       "name": "alan",
       "role": "editor",
-      "status": "Inactive"
+      "status": "Active"
     },
     {
       "id": "03a5",
       "name": "aysha",
       "role": "developer",
-      "status": "Inactive"
+      "status": "Active"
     },
     {
       "id": "cd37",
